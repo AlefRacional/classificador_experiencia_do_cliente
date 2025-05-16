@@ -1,4 +1,3 @@
-
 # CLASSIFICADOR DE SENTIMENTOS EM PYTHON - ETAPA 1 - Limpeza dos dados
 # Descrição: Simulação de um dataset + limpeza básica
 
