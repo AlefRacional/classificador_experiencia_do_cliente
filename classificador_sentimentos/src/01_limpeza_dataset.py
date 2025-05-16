@@ -1,7 +1,6 @@
 # CLASSIFICADOR DE SENTIMENTOS EM PYTHON - ETAPA 1 - Limpeza dos dados
 # Descrição: Simulação de um dataset + limpeza básica
 
-
 # Importar a biblioteca pandas para manipular tabelas de dados.
 import pandas as pd
 
